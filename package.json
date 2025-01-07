@@ -37,7 +37,7 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "jsdoc-to-markdown": "^8.0.3",
     "rollup": "^4.19.0",
-    "test-runner": "^0.11.0"
+    "test-runner": "^0.11.1"
   },
   "files": [
     "index.js",
